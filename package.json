@@ -12,7 +12,9 @@
   "description": "",
   "dependencies": {
     "dotenv": "^16.4.5",
+    "drizzle-orm": "^0.36.1",
     "express": "^4.21.1",
-    "mongoose": "^8.8.0"
+    "mongoose": "^8.8.0",
+    "pg": "^8.13.1"
   }
 }
